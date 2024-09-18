@@ -18,8 +18,8 @@ function Header() {
           <input type="text" />
           <Arrow></Arrow>
         </div>
-        <div className="productSearch">
-          <div className="input">
+        <div className="productSearch pl-5">
+          <div className="input font-normal">
             <input
               type="text"
               placeholder="Find car,mobile phone and more..."
@@ -33,7 +33,7 @@ function Header() {
           <span> ENGLISH </span>
           <Arrow></Arrow>
         </div>
-        <div className="loginPage">
+        <div className="loginPage  font-semibold " >
           <span>Login</span>
           <hr />
         </div>

@@ -10,7 +10,7 @@ function Footer() {
           <div className="heading">
             <p>POPULAR LOCATIONS</p>
           </div>
-          <div className="list">
+          <div className="list text-sm font-semibold text-gray-400">
             <ul>
               <li>kolkata</li>
               <li>Mumbai</li>
@@ -23,7 +23,7 @@ function Footer() {
           <div className="heading">
             <p>ABOUT US</p>
           </div>
-          <div className="list">
+          <div className="list text-sm font-semibold text-gray-400">
             <ul>
               <li>About OLX Group</li>
               <li>Careers</li>
@@ -36,7 +36,7 @@ function Footer() {
           <div className="heading">
             <p>OLX</p>
           </div>
-          <div className="list">
+          <div className="list text-sm font-semibold text-gray-400">
             <ul>
               <li>Help</li>
               <li>Sitemap</li>

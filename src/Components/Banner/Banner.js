@@ -11,7 +11,7 @@ function Banner() {
             <span>ALL CATEGORIES</span>
             <Arrow></Arrow> 
           </div>
-          <div className="otherQuickOptions">
+          <div className="otherQuickOptions font-semibold text-sm">
             <span>Cars</span>
             <span>Motorcy...</span>
             <span>Mobile Ph...</span>
